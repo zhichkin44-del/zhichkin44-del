@@ -1,6 +1,8 @@
-# AI Developer
+# Applied AI & Agentic Systems Engineer
 
 AI agents, LLM integrations and Telegram bots: Python, TypeScript, Claude Code, MCP.
+
+[Portfolio](https://zhichkin44-del.github.io/) · [LinkedIn](https://www.linkedin.com/in/aleksandr-zhichkin/) · [Telegram](https://t.me/god66x)
 
 ### Featured projects
 
